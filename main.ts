@@ -14,3 +14,4 @@ console.log(lol(1))
 // which you can use with tools such as browserify or 
 // directly within node.
 
+// Continue with the comments in ts-mod.ts
